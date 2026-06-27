@@ -1,0 +1,652 @@
+[
+  {
+    "case_id": "case_001",
+    "file": "putusan_1014_pid.b_2019_pn_jkt.utr_20260627114755.pdf",
+    "status": "OK",
+    "word_count": 4741,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_002",
+    "file": "putusan_1028_pid.b_2020_pn_jkt.utr_20260622233530.pdf",
+    "status": "OK",
+    "word_count": 13170,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [
+        "agama"
+      ],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_003",
+    "file": "putusan_1050_pid.b_2021_pn_jkt.utr_20260612003949.pdf",
+    "status": "OK",
+    "word_count": 11547,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_004",
+    "file": "putusan_1052_pid.b_2021_pn_jkt.utr_20260612004718.pdf",
+    "status": "OK",
+    "word_count": 13012,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_005",
+    "file": "putusan_1099_pid.b_2020_pn_jkt.utr_20260627121743.pdf",
+    "status": "OK",
+    "word_count": 24934,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_006",
+    "file": "putusan_1134_pid.b_2021_pn_jkt.utr_20260622223524.pdf",
+    "status": "OK",
+    "word_count": 6169,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_007",
+    "file": "putusan_1204_pid.b_2021_pn_jkt.utr_20260622215259.pdf",
+    "status": "OK",
+    "word_count": 4342,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_008",
+    "file": "putusan_124_pid.b_2020_pn_jkt.utr_20260627120924.pdf",
+    "status": "OK",
+    "word_count": 15199,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_009",
+    "file": "putusan_1298_pid.b_2019_pn_jkt.utr_20260622234946.pdf",
+    "status": "OK",
+    "word_count": 7727,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_010",
+    "file": "putusan_1349_pid.b_2020_pn_jkt.utr_20260622232857.pdf",
+    "status": "OK",
+    "word_count": 8727,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_011",
+    "file": "putusan_1366_pid.b_2020_pn_jkt.utr_20260622232602.pdf",
+    "status": "OK",
+    "word_count": 8489,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_012",
+    "file": "putusan_1382_pid.b_2020_pn_jkt.utr_20260627121227.pdf",
+    "status": "OK",
+    "word_count": 28884,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_013",
+    "file": "putusan_143_pid.b_2020_pn_jkt.utr_20260622230051.pdf",
+    "status": "OK",
+    "word_count": 10541,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_014",
+    "file": "putusan_1471_pid.b_2019_pn_jkt.utr_20260622234821.pdf",
+    "status": "OK",
+    "word_count": 6034,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_015",
+    "file": "putusan_1472_pid.b_2019_pn_jkt.utr_20260622234324.pdf",
+    "status": "OK",
+    "word_count": 5791,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_016",
+    "file": "putusan_214_pid.b_2020_pn_jkt.utr_20260627121836.pdf",
+    "status": "OK",
+    "word_count": 16246,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_017",
+    "file": "putusan_215_pid.b_2020_pn_jkt.utr_20260627121200.pdf",
+    "status": "OK",
+    "word_count": 48385,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_018",
+    "file": "putusan_216_pid.b_2020_pn_jkt.utr_20260627120901.pdf",
+    "status": "OK",
+    "word_count": 31840,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_019",
+    "file": "putusan_250_pid.b_2021_pn_jkt.utr_20260622224522.pdf",
+    "status": "OK",
+    "word_count": 10202,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_020",
+    "file": "putusan_343_pid.b_2021_pn_jkt.utr_20260622223403.pdf",
+    "status": "OK",
+    "word_count": 6958,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_021",
+    "file": "putusan_36_pid.b_2019_pn_jkt.utr_20260622223243.pdf",
+    "status": "OK",
+    "word_count": 6584,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_022",
+    "file": "putusan_392_pid.b_2021_pn_jkt.utr_20260627120139.pdf",
+    "status": "OK",
+    "word_count": 73931,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_023",
+    "file": "putusan_393_pid.b_2020_pn_jkt.utr_20260622223558.pdf",
+    "status": "OK",
+    "word_count": 26618,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_024",
+    "file": "putusan_393_pid.b_2021_pn_jkt.utr_20260627120239.pdf",
+    "status": "OK",
+    "word_count": 74291,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_025",
+    "file": "putusan_394_pid.b_2021_pn_jkt.utr_20260627115923.pdf",
+    "status": "OK",
+    "word_count": 74442,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_026",
+    "file": "putusan_508_pid.b_2021_pn_jkt.utr_20260622224731.pdf",
+    "status": "OK",
+    "word_count": 10623,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_027",
+    "file": "putusan_535_pid.b_2020_pn_jkt.utr_20260622230552.pdf",
+    "status": "OK",
+    "word_count": 10909,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_028",
+    "file": "putusan_557_pid.b_2021_pn_jkt.utr_20260622220204.pdf",
+    "status": "OK",
+    "word_count": 6205,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_029",
+    "file": "putusan_695_pid.b_2018_pn_.jkt_utr_20260627121611.pdf",
+    "status": "OK",
+    "word_count": 5597,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_030",
+    "file": "putusan_697_pid.b_2018_pn_.jkt_utr_20260627121637.pdf",
+    "status": "OK",
+    "word_count": 5987,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_031",
+    "file": "putusan_72_pid.b_2019_pn_jkt.utr_20260627114608.pdf",
+    "status": "OK",
+    "word_count": 29912,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_032",
+    "file": "putusan_800_pid.b_2021_pn_jkt.utr_20260623125517.pdf",
+    "status": "OK",
+    "word_count": 4861,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_033",
+    "file": "putusan_846_pid.b_2021_pn_jkt.utr_20260627121016.pdf",
+    "status": "OK",
+    "word_count": 18014,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_034",
+    "file": "putusan_961_pid.b_2019_pn_jkt.utr_20260627121845.pdf",
+    "status": "OK",
+    "word_count": 16631,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_035",
+    "file": "putusan_962_pid.b_2019_pn_jkt.utr_20260627121709.pdf",
+    "status": "OK",
+    "word_count": 16792,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  },
+  {
+    "case_id": "case_036",
+    "file": "putusan_983_pid.b_2021_pn_jkt.utr_20260622230722.pdf",
+    "status": "OK",
+    "word_count": 11578,
+    "qa": {
+      "found": [
+        "nama",
+        "tempat lahir",
+        "jenis kelamin",
+        "pekerjaan"
+      ],
+      "missing": [],
+      "noise_leaked": [],
+      "empty_values": [],
+      "passed": true
+    }
+  }
+]

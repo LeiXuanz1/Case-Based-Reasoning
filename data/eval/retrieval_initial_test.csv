@@ -1,0 +1,9 @@
+query_id,true_label,svm_pred,svm_correct,p@5_tfidf,r@5_tfidf,p@5_bert,r@5_bert
+case_009,pasal 263 ayat (1),pasal 263 ayat (1),1,0.8,0.26666666666666666,0.8,0.26666666666666666
+case_018,pasal 266 ayat (1),pasal 266,0,0.4,0.5,0.6,0.75
+case_034,bebas,bebas,1,0.4,0.5,0.2,0.25
+case_025,bebas,bebas,1,0.4,0.5,0.4,0.5
+case_010,pasal 263 ayat (1),pasal 263 ayat (1),1,0.8,0.26666666666666666,1.0,0.3333333333333333
+case_020,pasal 263 ayat (1),pasal 263 ayat (1),1,1.0,0.3333333333333333,1.0,0.3333333333333333
+case_032,pasal 263 ayat (1),pasal 263 ayat (1),1,0.8,0.26666666666666666,1.0,0.3333333333333333
+case_015,pasal 263 ayat (2),pasal 263 ayat (1),0,0.2,0.25,0.2,0.25

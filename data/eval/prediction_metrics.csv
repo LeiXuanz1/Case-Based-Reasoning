@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1
+TF-IDF + Weighted,0.875,0.775,0.875,0.8194
+IndoBERT + Weighted,0.5,0.3417,0.5,0.3958
+SVM,0.875,0.775,0.875,0.8194

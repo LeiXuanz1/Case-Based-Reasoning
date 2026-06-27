@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+*.safetensors
+*.bin
+
+models/indobert/
+
+.ipynb_checkpoints/

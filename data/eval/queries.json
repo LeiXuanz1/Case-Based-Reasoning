@@ -1,0 +1,142 @@
+[
+  {
+    "query_id": "case_009",
+    "query_text": "putusan\nnomor 1298/pid.b/2019/pn jkt.utr.\n demi keadilan berdasarkan ketuhanan yang maha esa;\n pengadilan negeri jakarta utara yang memeriksa dan mengadili perkara-\nperkara pidana, secara biasa dalam tingkat pertama telah menjatuhkan putusan\nsebagai berikut dalam perkara terdakwa:\nnama lengkap : yul",
+    "no_perkara": "1298/pid.b/2019/pn jkt.utr.",
+    "label": "pasal 263 ayat (1)",
+    "ground_truth_ids": [
+      "case_030",
+      "case_007",
+      "case_036",
+      "case_027",
+      "case_028",
+      "case_029",
+      "case_005",
+      "case_023",
+      "case_002",
+      "case_011",
+      "case_003",
+      "case_006",
+      "case_004",
+      "case_026",
+      "case_019"
+    ]
+  },
+  {
+    "query_id": "case_018",
+    "query_text": "putusan\nnomor 216/pid.b/2020/pn jkt.utr\ndemi keadilan berdasarkan ketuhanan yang maha esa\npengadilan negeri jakarta utara yang mengadili perkara pidana\ndengan acara pemeriksaan biasa dalam tingkat pertama, yang dilaksanakan di\ngedung pengadilan negeri tersebut, telah menjatuhkan putusan sebagai beri",
+    "no_perkara": "216/pid.b/2020/pn jkt.utr",
+    "label": "pasal 266 ayat (1)",
+    "ground_truth_ids": [
+      "case_001",
+      "case_033",
+      "case_016",
+      "case_017"
+    ]
+  },
+  {
+    "query_id": "case_034",
+    "query_text": "putusan\nnomor 961/pid.b/2019/pn.jkt.utr\ndemi keadilan berdasarkan ketuhanan yang maha esa\n pengadilan negeri jakarta utara yang mengadili perkara pidana dengan\nacara pemeriksaan biasa dalam tingkat pertama menjatuhkan putusan sebagai\nberikut dalam perkara terdakwa:\n1. nama lengkap : slamet danuri ;\n",
+    "no_perkara": "961/pid.b/2019/pn.jkt.utr",
+    "label": "bebas",
+    "ground_truth_ids": [
+      "case_012",
+      "case_024",
+      "case_022",
+      "case_035"
+    ]
+  },
+  {
+    "query_id": "case_025",
+    "query_text": "putusan\nnomor 394/pid.b/2021/pn.jkt.utr.\ndemi keadilan berdasarkan ketuhanan yang maha esa.\npengadilan negeri jakarta utara yang memeriksa dan mengadili perkara-\nperkara pidana dengan acara pemeriksaan biasa pada peradilan tingkat pertama\ntelah menjatuhkan putusan seperti tersebut dibawah ini dalam ",
+    "no_perkara": "394/pid.b/2021/pn.jkt.utr.",
+    "label": "bebas",
+    "ground_truth_ids": [
+      "case_012",
+      "case_024",
+      "case_022",
+      "case_035"
+    ]
+  },
+  {
+    "query_id": "case_010",
+    "query_text": "putusan\nnomor 1349/pid.b/2020/pn jkt.utr\ndemi keadilan berdasarkan ketuhanan yang maha esa\npengadilan negeri jakarta utara yang mengadili perkara pidana dengan\nacara pemeriksaan biasa dalam tingkat pertama menjatuhkan putusan sebagai\nberikut dalam perkara terdakwa :\n1. nama lengkap : tatang hidayat ",
+    "no_perkara": "1349/pid.b/2020/pn jkt.utr",
+    "label": "pasal 263 ayat (1)",
+    "ground_truth_ids": [
+      "case_030",
+      "case_007",
+      "case_036",
+      "case_027",
+      "case_028",
+      "case_029",
+      "case_005",
+      "case_023",
+      "case_002",
+      "case_011",
+      "case_003",
+      "case_006",
+      "case_004",
+      "case_026",
+      "case_019"
+    ]
+  },
+  {
+    "query_id": "case_020",
+    "query_text": "putusan\nnomor 343/pid.b/2021/pn jkt.utr\ndemi keadilan berdasarkan ketuhanan yang maha esa\npengadilan negeri jakarta utara yang mengadili perkara pidana dengan\nacara pemeriksaan biasa dalam tingkat pertama menjatuhkan putusan sebagai\nberikut dalam perkara para terdakwa :\nterdakwa 1\n1. nama lengkap : ",
+    "no_perkara": "343/pid.b/2021/pn jkt.utr",
+    "label": "pasal 263 ayat (1)",
+    "ground_truth_ids": [
+      "case_030",
+      "case_007",
+      "case_036",
+      "case_027",
+      "case_028",
+      "case_029",
+      "case_005",
+      "case_023",
+      "case_002",
+      "case_011",
+      "case_003",
+      "case_006",
+      "case_004",
+      "case_026",
+      "case_019"
+    ]
+  },
+  {
+    "query_id": "case_032",
+    "query_text": "nomor : 800/pid.b/2021/pn.jkt.utr.\n“demi keadilan berdasarkan ketuhanan yang maha esa”\npengadilan negeri jakarta utara yang memeriksa dan mengadili perkara-\nperkara pidana dengan acara pemeriksaan secara biasa pada peradilan tingkat\npertama telah menjatuhkan putusan dalam perkara terdakwa :\nnama len",
+    "no_perkara": "800/pid.b/2021/pn.jkt.utr.",
+    "label": "pasal 263 ayat (1)",
+    "ground_truth_ids": [
+      "case_030",
+      "case_007",
+      "case_036",
+      "case_027",
+      "case_028",
+      "case_029",
+      "case_005",
+      "case_023",
+      "case_002",
+      "case_011",
+      "case_003",
+      "case_006",
+      "case_004",
+      "case_026",
+      "case_019"
+    ]
+  },
+  {
+    "query_id": "case_015",
+    "query_text": "putusan\nnomor 1472/pid.b/2019/pn jkt.utr.\n demi keadilan berdasarkan ketuhanan yang maha esa;\n pengadilan negeri jakarta utara yang memeriksa dan mengadili perkara-\nperkara pidana, secara biasa dalam tingkat pertama telah menjatuhkan putusan\nsebagai berikut dalam perkara terdakwa:\nnama : ali minudin",
+    "no_perkara": "1472/pid.b/2019/pn jkt.utr.",
+    "label": "pasal 263 ayat (2)",
+    "ground_truth_ids": [
+      "case_008",
+      "case_021",
+      "case_013",
+      "case_014"
+    ]
+  }
+]

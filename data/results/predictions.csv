@@ -1,0 +1,9 @@
+query_id,no_perkara,true_label,true_durasi_bulan,pred_bert_weighted,pred_tfidf_weighted,pred_svm,predicted_solution,top_5_case_ids
+case_009,1298/pid.b/2019/pn jkt.utr.,pasal 263 ayat (1),24.0,pasal 263 ayat (1),pasal 263 ayat (1),pasal 263 ayat (1),bersalah,"case_007, case_016, case_029, case_001, case_030"
+case_018,216/pid.b/2020/pn jkt.utr,pasal 266,16.0,pasal 266,pasal 266,pasal 266,bersalah,"case_016, case_017, case_008, case_001, case_033"
+case_034,961/pid.b/2019/pn.jkt.utr,bebas,,pasal 263 ayat (1),bebas,bebas,bersalah,"case_016, case_007, case_029, case_001, case_030"
+case_025,394/pid.b/2021/pn.jkt.utr.,bebas,,pasal 266,bebas,bebas,bersalah,"case_016, case_017, case_008, case_012, case_001"
+case_010,1349/pid.b/2020/pn jkt.utr,pasal 263 ayat (1),21.0,pasal 263 ayat (1),pasal 263 ayat (1),pasal 263 ayat (1),bersalah,"case_016, case_029, case_007, case_030, case_014"
+case_020,343/pid.b/2021/pn jkt.utr,pasal 263 ayat (1),20.0,pasal 266,pasal 263 ayat (1),pasal 263 ayat (1),bersalah,"case_016, case_008, case_017, case_033, case_001"
+case_032,800/pid.b/2021/pn.jkt.utr.,pasal 263 ayat (1),14.0,pasal 263 ayat (1),pasal 263 ayat (1),pasal 263 ayat (1),bersalah,"case_007, case_029, case_030, case_014, case_006"
+case_015,1472/pid.b/2019/pn jkt.utr.,pasal 263 ayat (2),,pasal 263 ayat (1),pasal 263 ayat (1),pasal 263 ayat (1),bersalah,"case_029, case_007, case_030, case_014, case_006"
