@@ -7,13 +7,15 @@ dari Pengadilan Negeri Jakarta Utara menggunakan TF-IDF, IndoBERT, dan SVM.
 
     CBR_Pemalsuan/
     ├── data/
-    │   ├── raw/              # Full text putusan
-    │   ├── amar/             # Teks amar putusan
+    │   ├── pdf/                      # Dokumen putusan dalam format PDF
+    │   ├── raw/                      # Full text putusan
+    │   ├── amar/                     # Teks amar putusan
     │   ├── processed/
-    │   │   └── cases.csv     # Dataset final
-    │   ├── eval/             # train_ids.csv, test_ids.csv, queries.json
-    │   └── results/          # predictions.csv, metrics
-    ├── models/               # Model tersimpan (dibuat saat eksekusi)
+    │   │   ├── cases.csv             # Dataset final
+    │   │   └── cases_preview.csv     # Dataset ringkas untuk pratinjau
+    │   ├── eval/                     # train_ids.csv, test_ids.csv, queries.json
+    │   └── results/                  # predictions.csv, metrics
+    ├── models/                       # Model tersimpan (dibuat saat eksekusi)
     └── notebooks/
         ├── 01_case_base.ipynb
         ├── 02_case_representation.ipynb
